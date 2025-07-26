@@ -76,13 +76,34 @@
     <td>Occupation:</td>
     <td><input type="text" name="" id=""></td>
   </tr>
-  
-
-
-
-
-
-
-
+  <tr>
+    <td>National ID(NID):</td>
+    <td><input type="texr" name=""id=""></td>
+  </tr>
+  <tr>
+    <td> Set password</td>
+    <td><input type="password"placeholder="set password"name=""id=""></td>
+  </tr>
+  <tr>
+    <td>Upload ID proof :</td>
+    <td><input type ="file" name=""id=""></td>
+  </tr>
+  <tr>
+    <td><input type="checkbox" name="" id=""> I agree to terms and conditions</td>
+  </tr>
+  <tr>
+    <td>
+      <input type ="Submit" value ="Register">
+      <input type ="reset" value ="Clear">
+  </td>
+  </tr>
+  <tr>
+    <td><div>This is a demo text to show the overflow works in a small contants with a div method_exists
+    
+    </div></td>
+  </tr>
+  </from>
+  </table>
+  </body>
     </html>
 
